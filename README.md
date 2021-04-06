@@ -11,4 +11,4 @@ Click on the search bar and enter your city of choice, then click on the submit 
 https://saebr.github.io/ServerAPI_WeatherDashboard/
 
 ## Screenshot of site:
-![image](./assets/images/Capture.PNG)
+![image](./Assets/Images/Capture.PNG)
